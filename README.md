@@ -1,5 +1,1 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+THE PROBLEMOF BEING FASTER THAN LIGHT IS YOU WILL ALWAYS HAVE TO LIVE IN DARKNESS
